@@ -1,0 +1,12 @@
+{
+  "name": "weather-knowing-system-",
+  "version": "1.0.0",
+  "description": "Overview: WeatherNow is a user-friendly web application that provides real-time weather forecasts for locations worldwide. This open-source project aims to make checking the weather quick and easy, with a clean and intuitive user interface.  Features:  Current Weather: Get up-to-the-minute weather information, including temperature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
