@@ -120,4 +120,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-Let me know if you'd like this in a downloadable `.md` file.
+
